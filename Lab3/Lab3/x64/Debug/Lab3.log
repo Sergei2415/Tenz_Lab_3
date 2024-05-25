@@ -1,0 +1,6 @@
+﻿  Lab3.cpp
+C:\Users\Sergei\Desktop\Lab tenzor\Lab3\Lab3\Lab3.cpp(296,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Sergei\Desktop\Lab tenzor\Lab3\Lab3\Lab3.cpp(304,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Sergei\Desktop\Lab tenzor\Lab3\Lab3\Lab3.cpp(314,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Sergei\Desktop\Lab tenzor\Lab3\Lab3\Lab3.cpp(322,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab3.vcxproj -> C:\Users\Sergei\Desktop\Lab tenzor\Lab3\x64\Debug\Lab3.exe
